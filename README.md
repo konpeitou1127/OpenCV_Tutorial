@@ -1,2 +1,2 @@
 ## License
-MIT License (see LICENSE file).
+MIT License (see `LICENSE` file).
